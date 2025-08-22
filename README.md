@@ -81,14 +81,14 @@ I tend to spend too much time on minor details. I’ve learned to prioritize tas
 
 ---
 
-## 5. Where do you see yourself in 5 years?
+## 5. Where do you see yourself in 5 years? (abcfinancial)
 
 **Answer:**  
 In 5 years, I hope to be in a **senior IT role**, managing projects and mentoring junior team members while contributing to the company’s success.
 
 ---
 
-## 6. Why did you leave your last job / why are you looking for a new role?
+## 6. Why did you leave your last job / why are you looking for a new role? (Tangam System)
 
 **Answer:**  
 I am looking for opportunities where I can take on more **challenging projects** and grow my expertise in **software implementation and cloud technologies**.
@@ -116,7 +116,7 @@ I am motivated by solving challenging problems and creating solutions that have 
 
 ---
 
-## 10. What makes you unique?
+## 10. What makes you unique? (Tangam System)
 
 **Answer:**  
 I combine strong technical skills with a practical problem-solving mindset. I not only develop solutions but also ensure they align with business goals.  
@@ -134,7 +134,7 @@ I analyze the situation to understand what went wrong, take responsibility, and 
 
 ---
 
-## 12. How do you prioritize tasks?
+## 12. How do you prioritize tasks? (abcfinancial)
 
 **Answer:**  
 I assess tasks based on **urgency and impact**, create a structured plan, and communicate with stakeholders. I use tools like **Jira** or **Trello** to track progress and deadlines.
@@ -148,14 +148,14 @@ Two team members disagreed on the technology stack. I facilitated a discussion, 
 
 ---
 
-## 14. What are your salary expectations?
+## 14. What are your salary expectations? (Tangam System)
 
 **Answer:**  
 I’m looking for a fair **market rate** based on my experience and skills. I’m open to discussion and flexible, focusing more on the **role and growth opportunities**.
 
 ---
 
-## 15. Do you have any questions for us?
+## 15. Do you have any questions for us? (Tangam System)
 
 **Answer:**
 
